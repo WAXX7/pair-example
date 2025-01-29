@@ -14,7 +14,7 @@ function generateUA() {
 }
 
 var auth = {
-    email: 'klwhiteser@gmailmcom',
+    email: 'klwhiteser@gmail.com',
     password: 'KL WHITE SER@123',
     userAgent: generateUA()
 };
